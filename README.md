@@ -1,37 +1,37 @@
 # emart-app
 ## 🖼️ Project Screenshots
 
-Here are some screenshots from the deployed eMartApp project:
+Here are some visuals of the deployed eMartApp project:
 
 ### 🔹 Home Page
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-07-39.png)
+![Home Page](images/Screenshotfrom20250413180739.png)
 
 ### 🔹 Product Listing
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-07-53.png)
+![Product Listing](images/Screenshotfrom20250413180753.png)
 
-### 🔹 Product Detail View
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-26-47.png)
+### 🔹 Product Details
+![Product Details](images/Screenshotfrom20250413182647.png)
 
-### 🔹 Cart Page
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-29-08.png)
+### 🔹 Cart View
+![Cart](images/Screenshotfrom20250413182908.png)
 
-### 🔹 Checkout Process
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-32-25.png)
+### 🔹 Checkout Flow
+![Checkout](images/Screenshotfrom20250413183225.png)
 
-### 🔹 Admin Panel / Order Management
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-35-37.png)
+### 🔹 Admin Dashboard
+![Admin Panel](images/Screenshotfrom20250413183537.png)
 
-### 🔹 Terminal / CI-CD Setup
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-37-32.png)
+### 🔹 Terminal / CI-CD Logs
+![Terminal](images/Screenshotfrom20250413183732.png)
 
-### 🔹 Nginx Reverse Proxy Working
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-44-03.png)
+### 🔹 Nginx Reverse Proxy
+![Nginx](images/Screenshotfrom20250413184403.png)
 
 ### 🔹 Docker Containers Running
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-44-58.png)
+![Docker](images/Screenshotfrom20250413184458.png)
 
-### 🔹 EC2 Deployment Preview
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-45-52.png)
+### 🔹 EC2 Deployment Confirmation
+![EC2](images/Screenshotfrom20250413184552.png)
 
-### 🔹 Full System Overview
-![Screenshot](images/Screenshot\ from\ 2025-04-13\ 18-47-26.png)
+### 🔹 Full Stack Running
+![Overview](images/Screenshotfrom20250413184726.png)
